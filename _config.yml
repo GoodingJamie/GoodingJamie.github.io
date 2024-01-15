@@ -20,7 +20,8 @@ author: Jamie Gooding
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "home"
+  About me: "aboutme"
   Posts: "posts"
 
 ################
@@ -138,7 +139,7 @@ navbar-text-col: "#FAFBFD"
 navbar-border-col: "#1382EA"
 page-col: "#FAFBFD"
 text-col: "#0E141A"
-link-col: "#D7A192"
+link-col: "#1382EA"
 hover-col: "#ECA65E"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
