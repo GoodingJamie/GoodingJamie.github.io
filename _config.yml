@@ -20,7 +20,7 @@ author: Jamie Gooding
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "index"
   About me: "aboutme"
   Posts: "posts"
 
